@@ -1,0 +1,65 @@
+=== Table 1: macroeconomic policy regime ===
+Real short-term rate (irs - cpi)                                       2000-08: 0.4  2009-19: -0.3  2020-25: -0.8
+Nominal unit labour cost growth                                        2000-08: 0.7  2009-19: 0.3  2020-25: 1.0
+General government net lending, sector accounts (% GDP)                2000-08: -0.0  2009-19: 0.5  2020-23: -0.5
+Cyclically adjusted primary balance, OECD (% potential GDP)            2000-08: 0.61  2009-19: 0.96  2020-25: -0.25
+  2000-08: balance and gap move together in 6 of 9 years; output gap negative in 4 of 9 years
+  2009-19: balance and gap move together in 1 of 11 years; output gap negative in 9 of 11 years
+  2020-25: balance and gap move together in 3 of 6 years; output gap negative in 1 of 6 years
+Public investment (% GDP)                                              2000-08: 2.8  2009-19: 2.9  2020-25: 3.1
+Export share (% GDP)                                                   2000-08: 53  2009-19: 65  2020-25: 71
+Import share (% GDP)                                                   2000-08: 47  2009-19: 56  2020-25: 61
+REER (2010 = 100)                                                      2000-08: 94  2009-19: 105  2020-25: 109
+
+=== Table 2: regime indicators ===
+           n_years  gdp_growth  private_consumption  public_consumption  investment  inventories  exports  imports  net_exports  residual
+period                                                                                                                                   
+2000-2008        9        2.39                 0.88                0.13        0.69        -0.01     2.68    -1.99         0.69      -0.0
+2009-2019       11        1.59                 0.83                0.13        0.46        -0.05     1.63    -1.40         0.22       0.0
+2020-2025        6        1.83                 0.70                0.19        0.28         0.37     2.11    -1.81         0.30      -0.0
+2000-2007        8        2.37                 0.88                0.14        0.76        -0.16     2.70    -1.95         0.75       0.0
+2011-2019        9        1.79                 0.81                0.13        0.65        -0.16     1.76    -1.40         0.36       0.0
+Balance of goods and services, BoP (% GDP)                             2000-08: 6.0  2009-19: 9.1  2020-25: 10.5
+Current account, BoP (% GDP)                                           2000-08: 9.3  2009-19: 7.7  2020-25: 6.4
+Private sector balance (% GDP)                                         2000-08: 7.6  2009-19: 5.2  2020-23: 5.2
+  households                                                           2000-08: 8.8  2009-19: 10.4  2020-23: 12.1
+  corporations (non-financial + financial)                             2000-08: -1.2  2009-19: -5.2  2020-23: -6.8
+Government balance (% GDP)                                             2000-08: -0.0  2009-19: 0.5  2020-23: -0.5
+Rest of the world balance (% GDP)                                      2000-08: -7.5  2009-19: -5.7  2020-23: -4.7
+  BoP current account less sector-accounts external balance, average 2000-2023: 1.7 pp
+Real GDP per capita growth                                             2000-08: 1.6  2009-19: 0.5  2020-25: 0.8
+Population growth                                                      2000-08: 0.8  2009-19: 1.0  2020-25: 1.0
+Net migration (thousand)                                               2000-08: 48  2009-19: 65  2020-25: 54
+CPI inflation                                                          2000-08: 1.1  2009-19: -0.0  2020-25: 1.0
+  Domestic demand share of growth (C + G + I, excluding inventories) and incl. inventories:
+    2000-2008: excl. inventories 71%, incl. inventories 71%, net exports 29%
+    2009-2019: excl. inventories 89%, incl. inventories 86%, net exports 14%
+    2020-2025: excl. inventories 64%, incl. inventories 84%, net exports 16%
+    2000-2007: excl. inventories 75%, incl. inventories 68%, net exports 32%
+    2011-2019: excl. inventories 89%, incl. inventories 80%, net exports 20%
+
+=== Table 3 point values (baseline) ===
+  2001: c = 0.540, beta = 0.181, m = 0.484, mu = 1.310
+  2008: c = 0.496, beta = 0.193, m = 0.532, mu = 1.186
+  2019: c = 0.485, beta = 0.201, m = 0.582, mu = 1.116
+  2025: c = 0.465, beta = 0.193, m = 0.627, mu = 1.032
+
+=== Table 4: Germany, same method ===
+         growth  nx_contrib  x_contrib  m_contrib  x_share_end  nx_positive_years  n_years
+period                                                                                    
+2000-08    1.49        0.80       2.01      -1.21        36.12                  8        9
+2009-19    1.29        0.00       1.01      -1.01        41.43                  6       11
+2020-25    0.08       -0.59       0.00      -0.60        41.15                  1        6
+
+=== Text: sections 1, 3.3, 3.4, 5.2 ===
+  Real GDP 2016-2025: 17.9%
+  Current account average 2016-2025: 6.1% of GDP
+  Population 2000: 7.18 m; 2024: 9.01 m
+  REER change 2007-2011: 23%; 2014-2015: 6%; 2000-2025: 22%; 2008-2015: 20%
+  Compensation of employees, % GDP: 2000 53.8; 2019 57.4; 2023 56.8
+  PWT labour share: 1998 0.65; 2019 0.66
+  S80/S20: 2007 4.7; 2023 4.9
+Household gross saving rate (% disposable income)                      2000-08: 20  2009-19: 22  2020-23: 24
+  Household credit, % GDP: 2001 98; max 132 in 2020; 2025 123
+  Household GFCF, CHF bn: min 23.5 (2002), max 29.7 (2008); total GFCF 1998 118, 2023 207.5
+  Cumulative real GDP growth 2000-2025: 57.6%; per capita: 24.5%

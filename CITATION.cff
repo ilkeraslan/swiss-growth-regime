@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Data and code for: The demand and growth regime of Switzerland"
+type: software
+authors:
+  - family-names: Aslan
+    given-names: Ilker
+    orcid: "https://orcid.org/0000-0001-9241-9420"
+    affiliation: "Kalaidos University of Applied Sciences"
+license: MIT
+repository-code: "https://github.com/ilkeraslan/"
+keywords:
+  - demand and growth regimes
+  - export-led mercantilism
+  - Switzerland
+  - supermultiplier
+  - post-Keynesian economics
+preferred-citation:
+  type: report
+  title: "The demand and growth regime of Switzerland: Export-led mercantilism under safe-haven pressure"
+  authors:
+    - family-names: Aslan
+      given-names: Ilker
+      orcid: "https://orcid.org/0000-0001-9241-9420"
+      affiliation: "Kalaidos University of Applied Sciences"
+
+  institution:
+    name: "SSRN"
+  year: 2026
+  doi: "10.2139/ssrn.7405738"
+  url: "https://ssrn.com/abstract=7405738"
